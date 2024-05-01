@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2799525-7560-49b9-a61d-615049b0a621": {
+      "ProjectGuid": "d2799525-7560-49b9-a61d-615049b0a621",
+      "DisplayName": "HYDSWMAPI",
+      "ColorIndex": 0
+    },
+    "c9170845-a778-4b37-ad37-dc321ea7ca06": {
+      "ProjectGuid": "c9170845-a778-4b37-ad37-dc321ea7ca06",
+      "DisplayName": "COMMON",
+      "ColorIndex": 1
+    },
+    "4cf8c6b7-343d-4ca3-94cc-38eab07df47a": {
+      "ProjectGuid": "4cf8c6b7-343d-4ca3-94cc-38eab07df47a",
+      "DisplayName": "HYDSWM",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,535 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DEMOSWMCKC
+build_property.RootNamespace = DEMOSWMCKC
+build_property.ProjectDir = C:\Users\madhuri\Desktop\Projects\HYDSWM\HYDSWM\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\madhuri\Desktop\Projects\HYDSWM\HYDSWM
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Asset/AddContainer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcQWRkQ29udGFpbmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Asset/AddVehicle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcQWRkVmVoaWNsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Asset/AllContainer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcQWxsQ29udGFpbmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Asset/AllContainerNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcQWxsQ29udGFpbmVyTm90aS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Asset/AllVehicle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcQWxsVmVoaWNsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Asset/AllVehicleNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcQWxsVmVoaWNsZU5vdGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Asset/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Asset/VehicleSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcVmVoaWNsZVN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AddEmergencyPoint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBZGRFbWVyZ2VuY3lQb2ludC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AddNRoute.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBZGROUm91dGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AddRoute.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBZGRSb3V0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AddRouteTrip.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBZGRSb3V0ZVRyaXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AddSRoute.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBZGRTUm91dGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AddSTripPoint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBZGRTVHJpcFBvaW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AddVehicleToTrip.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBZGRWZWhpY2xlVG9UcmlwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllEmergencyPoint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxFbWVyZ2VuY3lQb2ludC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllEmergencyPointCltnNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxFbWVyZ2VuY3lQb2ludENsdG5Ob3RpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllGeoPoint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxHZW9Qb2ludC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllGeoPointNotCollected.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxHZW9Qb2ludE5vdENvbGxlY3RlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllGeoPointNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxHZW9Qb2ludE5vdGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllNRoute.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxOUm91dGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllPointCltnNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxQb2ludENsdG5Ob3RpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllPointCollectDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxQb2ludENvbGxlY3REZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllPointSummaryNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxQb2ludFN1bW1hcnlOb3RpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllRouteNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxSb3V0ZU5vdGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllRouteTrip.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxSb3V0ZVRyaXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllRouteTripNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxSb3V0ZVRyaXBOb3RpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllRouteWiseCollectDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxSb3V0ZVdpc2VDb2xsZWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllRouteWiseCollectDetail_Copy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxSb3V0ZVdpc2VDb2xsZWN0RGV0YWlsX0NvcHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllSRoute.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxTUm91dGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllTripPoint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxUcmlwUG9pbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllVehicleWiseEmergencyCollectDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxWZWhpY2xlV2lzZUVtZXJnZW5jeUNvbGxlY3REZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/AllZoneWiseSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxBbGxab25lV2lzZVN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/CollectionIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxDb2xsZWN0aW9uSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/EarlyCompletion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxFYXJseUNvbXBsZXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/EmerAllPointCollectDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxFbWVyQWxsUG9pbnRDb2xsZWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/EmergencyPointDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxFbWVyZ2VuY3lQb2ludERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/GeoPointsVisitSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxHZW9Qb2ludHNWaXNpdFN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/Timeline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxUaW1lbGluZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/TotalAssignedVehicle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxUb3RhbEFzc2lnbmVkVmVoaWNsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Collection/TotalUniqueVehicle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvblxUb3RhbFVuaXF1ZVZlaGljbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Complaint/AddCCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxhaW50XEFkZENDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Complaint/AllComplaint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxhaW50XEFsbENvbXBsYWludC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Complaint/AllComplaintCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxhaW50XEFsbENvbXBsYWludENhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Complaint/AllComplaintNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxhaW50XEFsbENvbXBsYWludE5vdGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Complaint/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxhaW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Complaint/RptAllComplaint.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxhaW50XFJwdEFsbENvbXBsYWludC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Demo1/AddCircle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtbzFcQWRkQ2lyY2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Demo1/AllCircle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtbzFcQWxsQ2lyY2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Demo1/ContainerDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtbzFcQ29udGFpbmVyRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Demo1/RouteInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtbzFcUm91dGVJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Demo/AddZone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xBZGRab25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Demo/AllMData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xBbGxNRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Demo/AllZone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xBbGxab25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Demo/GetAllData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xHZXRBbGxEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Demo/VehicleDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xWZWhpY2xlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/AllDeLinkHL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxBbGxEZUxpbmtITC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/AllDeployDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxBbGxEZXBsb3lEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/AllDeployedNotDeployedSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxBbGxEZXBsb3llZE5vdERlcGxveWVkU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/AllDeployedVsReportedSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxBbGxEZXBsb3llZFZzUmVwb3J0ZWRTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/AllEntityDeployment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxBbGxFbnRpdHlEZXBsb3ltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/AllNotFilledContainer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxBbGxOb3RGaWxsZWRDb250YWluZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/AllNotFilledHKL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxBbGxOb3RGaWxsZWRIS0wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/AllVDeployment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxBbGxWRGVwbG95bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/DepAtRpt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxEZXBBdFJwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/DeployedVsNotReported_Paging.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxEZXBsb3llZFZzTm90UmVwb3J0ZWRfUGFnaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/DeployVsNotReportedSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxEZXBsb3lWc05vdFJlcG9ydGVkU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/NotDeployedVsReportedPaging.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxOb3REZXBsb3llZFZzUmVwb3J0ZWRQYWdpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/NotDeployedVsReportedSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxOb3REZXBsb3llZFZzUmVwb3J0ZWRTdW1tYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/VehicleDeployedVsReportedPaging.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxWZWhpY2xlRGVwbG95ZWRWc1JlcG9ydGVkUGFnaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Deployment/VehicleDepNotDepSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwbG95bWVudFxWZWhpY2xlRGVwTm90RGVwU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AddCircle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFkZENpcmNsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AddGeoPointCategoryDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFkZEdlb1BvaW50Q2F0ZWdvcnlEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AddOwnerType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFkZE93bmVyVHlwZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AddTripMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFkZFRyaXBNYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AddVehicleType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFkZFZlaGljbGVUeXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AddWard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFkZFdhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AddZone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFkZFpvbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AllCircle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFsbENpcmNsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AllGeoPointCategoryDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFsbEdlb1BvaW50Q2F0ZWdvcnlEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AllOwnerType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFsbE93bmVyVHlwZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AllTransaferStation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFsbFRyYW5zYWZlclN0YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AllTripMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFsbFRyaXBNYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AllVehicleType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFsbFZlaGljbGVUeXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AllWard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFsbFdhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Master/AllZone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyXEFsbFpvbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/AllDeployIncharge.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEFsbERlcGxveUluY2hhcmdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/AllDeployLocation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEFsbERlcGxveUxvY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/AllForceTransactionOpt1Noti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEFsbEZvcmNlVHJhbnNhY3Rpb25PcHQxTm90aS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/AllOpt1ContainerNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEFsbE9wdDFDb250YWluZXJOb3RpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/AllOpt1HKLNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEFsbE9wdDFIS0xOb3RpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/AllOpt1RCVNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEFsbE9wdDFSQ1ZOb3RpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/AllOpt1UNQContainerNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEFsbE9wdDFVTlFDb250YWluZXJOb3RpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/AllOpt1UNQHKLNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEFsbE9wdDFVTlFIS0xOb3RpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/AllPendingContainer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEFsbFBlbmRpbmdDb250YWluZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/AllPendingOperation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEFsbFBlbmRpbmdPcGVyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/AllRptVehicleInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEFsbFJwdFZlaGljbGVJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/GetAllOpt1ArvlEntityNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEdldEFsbE9wdDFBcnZsRW50aXR5Tm90aS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/GetAllOpt1VehicleNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEdldEFsbE9wdDFWZWhpY2xlTm90aS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/OperationIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXE9wZXJhdGlvbkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/PendingContainerforHKL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXFBlbmRpbmdDb250YWluZXJmb3JIS0wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/RptContainerforHKL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXFJwdENvbnRhaW5lcmZvckhLTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/RptGetAllVehiclesDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXFJwdEdldEFsbFZlaGljbGVzRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/RptOperationSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXFJwdE9wZXJhdGlvblN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/RptTSWiseSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXFJwdFRTV2lzZVN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/RptWeightBridge.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXFJwdFdlaWdodEJyaWRnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Operation/VehicleCollectionNoti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmF0aW9uXFZlaGljbGVDb2xsZWN0aW9uTm90aS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/RptOperation/RptAllArvl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnB0T3BlcmF0aW9uXFJwdEFsbEFydmwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/RptOperation/RptContainerWisePerf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnB0T3BlcmF0aW9uXFJwdENvbnRhaW5lcldpc2VQZXJmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/RptOperation/RptHKLWisePerf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnB0T3BlcmF0aW9uXFJwdEhLTFdpc2VQZXJmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/RptOperation/RptPVehicleWiseInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnB0T3BlcmF0aW9uXFJwdFBWZWhpY2xlV2lzZUluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/RptOperation/RptWBInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnB0T3BlcmF0aW9uXFJwdFdCSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Shared/_MonsterLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Nb25zdGVyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/SWMMaster/AddShift.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1dNTWFzdGVyXEFkZFNoaWZ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/SWMMaster/AllShift.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU1dNTWFzdGVyXEFsbFNoaWZ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/User/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/User/AllMobileRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBbGxNb2JpbGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/User/AllRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBbGxSb2xlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/User/RptUserLog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxScHRVc2VyTG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madhuri/Desktop/Projects/HYDSWM/HYDSWM/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

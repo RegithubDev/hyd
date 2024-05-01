@@ -1,0 +1,55 @@
+C:\Projects\RAMKY HYDERABAD\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\Select.Html.dep
+C:\Projects\RAMKY HYDERABAD\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.deps.json
+C:\Projects\RAMKY HYDERABAD\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.dll
+C:\Projects\RAMKY HYDERABAD\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.pdb
+C:\Projects\RAMKY HYDERABAD\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.csproj.AssemblyReference.cache
+C:\Projects\RAMKY HYDERABAD\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\RAMKY HYDERABAD\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.AssemblyInfoInputs.cache
+C:\Projects\RAMKY HYDERABAD\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.AssemblyInfo.cs
+C:\Projects\RAMKY HYDERABAD\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.csproj.CoreCompileInputs.cache
+C:\Projects\RAMKY HYDERABAD\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.dll
+C:\Projects\RAMKY HYDERABAD\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.pdb
+D:\Source Code\Hyderabad\WebApp_Api\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\Select.Html.dep
+D:\Source Code\Hyderabad\WebApp_Api\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.deps.json
+D:\Source Code\Hyderabad\WebApp_Api\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.dll
+D:\Source Code\Hyderabad\WebApp_Api\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.pdb
+D:\Source Code\Hyderabad\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.csproj.AssemblyReference.cache
+D:\Source Code\Hyderabad\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code\Hyderabad\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.AssemblyInfoInputs.cache
+D:\Source Code\Hyderabad\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.AssemblyInfo.cs
+D:\Source Code\Hyderabad\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.csproj.CoreCompileInputs.cache
+D:\Source Code\Hyderabad\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.dll
+D:\Source Code\Hyderabad\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.pdb
+D:\Source Code\Hyderabad\Version_1.0\WebApp_Api\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\Select.Html.dep
+D:\Source Code\Hyderabad\Version_1.0\WebApp_Api\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.deps.json
+D:\Source Code\Hyderabad\Version_1.0\WebApp_Api\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.dll
+D:\Source Code\Hyderabad\Version_1.0\WebApp_Api\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.pdb
+D:\Source Code\Hyderabad\Version_1.0\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.csproj.AssemblyReference.cache
+D:\Source Code\Hyderabad\Version_1.0\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code\Hyderabad\Version_1.0\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.AssemblyInfoInputs.cache
+D:\Source Code\Hyderabad\Version_1.0\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.AssemblyInfo.cs
+D:\Source Code\Hyderabad\Version_1.0\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.csproj.CoreCompileInputs.cache
+D:\Source Code\Hyderabad\Version_1.0\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.dll
+D:\Source Code\Hyderabad\Version_1.0\WebApp_Api\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.pdb
+C:\Users\madhuri\Desktop\Projects\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\Select.Html.dep
+C:\Users\madhuri\Desktop\Projects\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.deps.json
+C:\Users\madhuri\Desktop\Projects\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.dll
+C:\Users\madhuri\Desktop\Projects\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.pdb
+C:\Users\madhuri\Desktop\Projects\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.csproj.AssemblyReference.cache
+C:\Users\madhuri\Desktop\Projects\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madhuri\Desktop\Projects\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.AssemblyInfoInputs.cache
+C:\Users\madhuri\Desktop\Projects\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.AssemblyInfo.cs
+C:\Users\madhuri\Desktop\Projects\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.csproj.CoreCompileInputs.cache
+C:\Users\madhuri\Desktop\Projects\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.dll
+C:\Users\madhuri\Desktop\Projects\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.pdb
+C:\Users\Umamaheswara\Desktop\Hyd_project\Hyd_project\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\Select.Html.dep
+C:\Users\Umamaheswara\Desktop\Hyd_project\Hyd_project\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.deps.json
+C:\Users\Umamaheswara\Desktop\Hyd_project\Hyd_project\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.dll
+C:\Users\Umamaheswara\Desktop\Hyd_project\Hyd_project\HYDSWM\COMMON\bin\Debug\netcoreapp3.1\COMMON.pdb
+C:\Users\Umamaheswara\Desktop\Hyd_project\Hyd_project\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.csproj.AssemblyReference.cache
+C:\Users\Umamaheswara\Desktop\Hyd_project\Hyd_project\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umamaheswara\Desktop\Hyd_project\Hyd_project\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.AssemblyInfoInputs.cache
+C:\Users\Umamaheswara\Desktop\Hyd_project\Hyd_project\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.AssemblyInfo.cs
+C:\Users\Umamaheswara\Desktop\Hyd_project\Hyd_project\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.csproj.CoreCompileInputs.cache
+C:\Users\Umamaheswara\Desktop\Hyd_project\Hyd_project\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.dll
+C:\Users\Umamaheswara\Desktop\Hyd_project\Hyd_project\HYDSWM\COMMON\obj\Debug\netcoreapp3.1\COMMON.pdb

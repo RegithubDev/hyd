@@ -1,0 +1,752 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\wwwroot\\viewjs\\master\\alltransferstationinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\wwwroot\\viewjs\\master\\alltransferstationinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\views\\master\\alltransaferstation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\views\\master\\alltransaferstation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswmapi\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|solutionrelative:hydswmapi\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\views\\master\\addward.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\views\\master\\addward.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\wwwroot\\viewjs\\master\\allcityinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\wwwroot\\viewjs\\master\\allcityinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\views\\master\\allcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\views\\master\\allcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswmapi\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|solutionrelative:hydswmapi\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9170845-A778-4B37-AD37-DC321EA7CA06}|COMMON\\COMMON.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\common\\master\\masterinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9170845-A778-4B37-AD37-DC321EA7CA06}|COMMON\\COMMON.csproj|solutionrelative:common\\master\\masterinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\helpers\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\helpers\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9170845-A778-4B37-AD37-DC321EA7CA06}|COMMON\\COMMON.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\common\\datatableajaxpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9170845-A778-4B37-AD37-DC321EA7CA06}|COMMON\\COMMON.csproj|solutionrelative:common\\datatableajaxpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\wwwroot\\js\\commonhelper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\wwwroot\\js\\commonhelper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\wwwroot\\js\\input.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\wwwroot\\js\\input.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9170845-A778-4B37-AD37-DC321EA7CA06}|COMMON\\COMMON.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\common\\storedprocedurehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9170845-A778-4B37-AD37-DC321EA7CA06}|COMMON\\COMMON.csproj|solutionrelative:common\\storedprocedurehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswmapi\\controllers\\deploymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|solutionrelative:hydswmapi\\controllers\\deploymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\wwwroot\\viewjs\\master\\allwardinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\wwwroot\\viewjs\\master\\allwardinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\wwwroot\\viewjs\\master\\allzoneinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\wwwroot\\viewjs\\master\\allzoneinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\views\\master\\addzone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\views\\master\\addzone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\wwwroot\\viewjs\\common\\allgenericfunc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\wwwroot\\viewjs\\common\\allgenericfunc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\helpers\\qrhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\helpers\\qrhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswmapi\\helpers\\qrhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|solutionrelative:hydswmapi\\helpers\\qrhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9170845-A778-4B37-AD37-DC321EA7CA06}|COMMON\\COMMON.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\common\\operation\\qrhelperinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9170845-A778-4B37-AD37-DC321EA7CA06}|COMMON\\COMMON.csproj|solutionrelative:common\\operation\\qrhelperinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\wwwroot\\viewjs\\asset\\vehicleinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\wwwroot\\viewjs\\asset\\vehicleinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\controllers\\swmmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\controllers\\swmmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\views\\master\\allward.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\views\\master\\allward.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\wwwroot\\viewjs\\master\\allcircleinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\wwwroot\\viewjs\\master\\allcircleinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswmapi\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|solutionrelative:hydswmapi\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\wwwroot\\viewjs\\asset\\assetdashboardinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\wwwroot\\viewjs\\asset\\assetdashboardinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\views\\asset\\allvehicle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\views\\asset\\allvehicle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\wwwroot\\viewjs\\master\\allvehicletypeinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\wwwroot\\viewjs\\master\\allvehicletypeinfo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\views\\master\\addcircle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\views\\master\\addcircle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\views\\master\\allzone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\views\\master\\allzone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\views\\master\\addcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\views\\master\\addcity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\views\\master\\allcircle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\views\\master\\allcircle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswmapi\\services\\masterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|solutionrelative:hydswmapi\\services\\masterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswmapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|solutionrelative:hydswmapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswmapi\\services\\collectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|solutionrelative:hydswmapi\\services\\collectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\hydswm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\hydswm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswm\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF8C6B7-343D-4CA3-94CC-38EAB07DF47A}|HYDSWM\\HYDSWM.csproj|solutionrelative:hydswm\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|c:\\users\\umamaheswara\\desktop\\hyd_project\\hyd_project\\hydswm\\hydswmapi\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2799525-7560-49B9-A61D-615049B0A621}|HYDSWMAPI\\HYDSWMAPI.csproj|solutionrelative:hydswmapi\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddWard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AddWard.cshtml",
+              "RelativeDocumentMoniker": "HYDSWM\\Views\\Master\\AddWard.cshtml",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AddWard.cshtml",
+              "RelativeToolTip": "HYDSWM\\Views\\Master\\AddWard.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T16:28:38.58Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllTransferStationInfo.js",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Master\\AllTransferStationInfo.js",
+              "RelativeDocumentMoniker": "HYDSWM\\wwwroot\\ViewJs\\Master\\AllTransferStationInfo.js",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Master\\AllTransferStationInfo.js",
+              "RelativeToolTip": "HYDSWM\\wwwroot\\ViewJs\\Master\\AllTransferStationInfo.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-27T11:49:50.158Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllTransaferStation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AllTransaferStation.cshtml",
+              "RelativeDocumentMoniker": "HYDSWM\\Views\\Master\\AllTransaferStation.cshtml",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AllTransaferStation.cshtml",
+              "RelativeToolTip": "HYDSWM\\Views\\Master\\AllTransaferStation.cshtml",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAJIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T05:26:27.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "HYDSWM\\Controllers\\MasterController.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "HYDSWM\\Controllers\\MasterController.cs",
+              "ViewState": "AQIAAFIBAAAAAAAAAAAiwFoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T04:54:50.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "HYDSWMAPI\\Controllers\\MasterController.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "HYDSWMAPI\\Controllers\\MasterController.cs",
+              "ViewState": "AQIAAJcCAAAAAAAAAAAUwLsCAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T04:09:26.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllCityInfo.js",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Master\\AllCityInfo.js",
+              "RelativeDocumentMoniker": "HYDSWM\\wwwroot\\ViewJs\\Master\\AllCityInfo.js",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Master\\AllCityInfo.js",
+              "RelativeToolTip": "HYDSWM\\wwwroot\\ViewJs\\Master\\AllCityInfo.js",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-27T09:33:47.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllCity.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AllCity.cshtml",
+              "RelativeDocumentMoniker": "HYDSWM\\Views\\Master\\AllCity.cshtml",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AllCity.cshtml",
+              "RelativeToolTip": "HYDSWM\\Views\\Master\\AllCity.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T04:34:10.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OperationController.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\Controllers\\OperationController.cs",
+              "RelativeDocumentMoniker": "HYDSWMAPI\\Controllers\\OperationController.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\Controllers\\OperationController.cs",
+              "RelativeToolTip": "HYDSWMAPI\\Controllers\\OperationController.cs",
+              "ViewState": "AQIAADMDAAAAAAAAAAAtwEADAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:32:35.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OperationController.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Controllers\\OperationController.cs",
+              "RelativeDocumentMoniker": "HYDSWM\\Controllers\\OperationController.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Controllers\\OperationController.cs",
+              "RelativeToolTip": "HYDSWM\\Controllers\\OperationController.cs",
+              "ViewState": "AQIAANgBAAAAAAAAAAAtwOIBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:31:36.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MasterInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\COMMON\\MASTER\\MasterInfo.cs",
+              "RelativeDocumentMoniker": "COMMON\\MASTER\\MasterInfo.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\COMMON\\MASTER\\MasterInfo.cs",
+              "RelativeToolTip": "COMMON\\MASTER\\MasterInfo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:05:57.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HttpClientHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Helpers\\HttpClientHelper.cs",
+              "RelativeDocumentMoniker": "HYDSWM\\Helpers\\HttpClientHelper.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Helpers\\HttpClientHelper.cs",
+              "RelativeToolTip": "HYDSWM\\Helpers\\HttpClientHelper.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAlwEwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:44:28.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataTableAjaxPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\COMMON\\DataTableAjaxPostModel.cs",
+              "RelativeDocumentMoniker": "COMMON\\DataTableAjaxPostModel.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\COMMON\\DataTableAjaxPostModel.cs",
+              "RelativeToolTip": "COMMON\\DataTableAjaxPostModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:41:46.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "HYDSWM\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "HYDSWM\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-30T09:30:59.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommonHelper.js",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\js\\CommonHelper.js",
+              "RelativeDocumentMoniker": "HYDSWM\\wwwroot\\js\\CommonHelper.js",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\js\\CommonHelper.js",
+              "RelativeToolTip": "HYDSWM\\wwwroot\\js\\CommonHelper.js",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAkwKMAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-30T09:30:17.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "input.js",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\js\\input.js",
+              "RelativeDocumentMoniker": "HYDSWM\\wwwroot\\js\\input.js",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\js\\input.js",
+              "RelativeToolTip": "HYDSWM\\wwwroot\\js\\input.js",
+              "ViewState": "AQIAANYAAAAAAAAAAAAUwOQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-30T09:29:23.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StoredProcedureHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\COMMON\\StoredProcedureHelper.cs",
+              "RelativeDocumentMoniker": "COMMON\\StoredProcedureHelper.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\COMMON\\StoredProcedureHelper.cs",
+              "RelativeToolTip": "COMMON\\StoredProcedureHelper.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAiwGcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T04:10:44.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeploymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\Controllers\\DeploymentController.cs",
+              "RelativeDocumentMoniker": "HYDSWMAPI\\Controllers\\DeploymentController.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\Controllers\\DeploymentController.cs",
+              "RelativeToolTip": "HYDSWMAPI\\Controllers\\DeploymentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:03:33.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AllWardInfo.js",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Master\\AllWardInfo.js",
+              "RelativeDocumentMoniker": "HYDSWM\\wwwroot\\ViewJs\\Master\\AllWardInfo.js",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Master\\AllWardInfo.js",
+              "RelativeToolTip": "HYDSWM\\wwwroot\\ViewJs\\Master\\AllWardInfo.js",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwFkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-30T05:50:59.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AllZoneInfo.js",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Master\\AllZoneInfo.js",
+              "RelativeDocumentMoniker": "HYDSWM\\wwwroot\\ViewJs\\Master\\AllZoneInfo.js",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Master\\AllZoneInfo.js",
+              "RelativeToolTip": "HYDSWM\\wwwroot\\ViewJs\\Master\\AllZoneInfo.js",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAIwJUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-26T10:03:34.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddZone.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AddZone.cshtml",
+              "RelativeDocumentMoniker": "HYDSWM\\Views\\Master\\AddZone.cshtml",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AddZone.cshtml",
+              "RelativeToolTip": "HYDSWM\\Views\\Master\\AddZone.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwCgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T09:31:35.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AllGenericFunc.js",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Common\\AllGenericFunc.js",
+              "RelativeDocumentMoniker": "HYDSWM\\wwwroot\\ViewJs\\Common\\AllGenericFunc.js",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Common\\AllGenericFunc.js",
+              "RelativeToolTip": "HYDSWM\\wwwroot\\ViewJs\\Common\\AllGenericFunc.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-26T09:38:39.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QRHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\HELPERS\\QRHelper.cs",
+              "RelativeDocumentMoniker": "HYDSWMAPI\\HELPERS\\QRHelper.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\HELPERS\\QRHelper.cs",
+              "RelativeToolTip": "HYDSWMAPI\\HELPERS\\QRHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:56:23.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QrHelperInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\COMMON\\OPERATION\\QrHelperInfo.cs",
+              "RelativeDocumentMoniker": "COMMON\\OPERATION\\QrHelperInfo.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\COMMON\\OPERATION\\QrHelperInfo.cs",
+              "RelativeToolTip": "COMMON\\OPERATION\\QrHelperInfo.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:57:04.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QRHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Helpers\\QRHelper.cs",
+              "RelativeDocumentMoniker": "HYDSWM\\Helpers\\QRHelper.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Helpers\\QRHelper.cs",
+              "RelativeToolTip": "HYDSWM\\Helpers\\QRHelper.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAUwNgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:47:58.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VehicleInfo.js",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Asset\\VehicleInfo.js",
+              "RelativeDocumentMoniker": "HYDSWM\\wwwroot\\ViewJs\\Asset\\VehicleInfo.js",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Asset\\VehicleInfo.js",
+              "RelativeToolTip": "HYDSWM\\wwwroot\\ViewJs\\Asset\\VehicleInfo.js",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAiwN4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-29T13:00:53.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SWMMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Controllers\\SWMMasterController.cs",
+              "RelativeDocumentMoniker": "HYDSWM\\Controllers\\SWMMasterController.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Controllers\\SWMMasterController.cs",
+              "RelativeToolTip": "HYDSWM\\Controllers\\SWMMasterController.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAA2wNMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:49:51.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssetController.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Controllers\\AssetController.cs",
+              "RelativeDocumentMoniker": "HYDSWM\\Controllers\\AssetController.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Controllers\\AssetController.cs",
+              "RelativeToolTip": "HYDSWM\\Controllers\\AssetController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:58:05.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AllWard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AllWard.cshtml",
+              "RelativeDocumentMoniker": "HYDSWM\\Views\\Master\\AllWard.cshtml",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AllWard.cshtml",
+              "RelativeToolTip": "HYDSWM\\Views\\Master\\AllWard.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAD0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T07:55:32.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AllCircleInfo.js",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Master\\AllCircleInfo.js",
+              "RelativeDocumentMoniker": "HYDSWM\\wwwroot\\ViewJs\\Master\\AllCircleInfo.js",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Master\\AllCircleInfo.js",
+              "RelativeToolTip": "HYDSWM\\wwwroot\\ViewJs\\Master\\AllCircleInfo.js",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-26T09:17:32.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AssetController.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\Controllers\\AssetController.cs",
+              "RelativeDocumentMoniker": "HYDSWMAPI\\Controllers\\AssetController.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\Controllers\\AssetController.cs",
+              "RelativeToolTip": "HYDSWMAPI\\Controllers\\AssetController.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAD4v64AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:13:50.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AssetDashboardInfo.js",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Asset\\AssetDashboardInfo.js",
+              "RelativeDocumentMoniker": "HYDSWM\\wwwroot\\ViewJs\\Asset\\AssetDashboardInfo.js",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Asset\\AssetDashboardInfo.js",
+              "RelativeToolTip": "HYDSWM\\wwwroot\\ViewJs\\Asset\\AssetDashboardInfo.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-29T13:27:40.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AllVehicle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Asset\\AllVehicle.cshtml",
+              "RelativeDocumentMoniker": "HYDSWM\\Views\\Asset\\AllVehicle.cshtml",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Asset\\AllVehicle.cshtml",
+              "RelativeToolTip": "HYDSWM\\Views\\Asset\\AllVehicle.cshtml",
+              "ViewState": "AQIAAKIAAAAAAAAAAIBJwBkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T12:59:32.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AllVehicleTypeInfo.js",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Master\\AllVehicleTypeInfo.js",
+              "RelativeDocumentMoniker": "HYDSWM\\wwwroot\\ViewJs\\Master\\AllVehicleTypeInfo.js",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Master\\AllVehicleTypeInfo.js",
+              "RelativeToolTip": "HYDSWM\\wwwroot\\ViewJs\\Master\\AllVehicleTypeInfo.js",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-29T12:57:55.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddCircle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AddCircle.cshtml",
+              "RelativeDocumentMoniker": "HYDSWM\\Views\\Master\\AddCircle.cshtml",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AddCircle.cshtml",
+              "RelativeToolTip": "HYDSWM\\Views\\Master\\AddCircle.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBZwCkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T09:16:40.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AllZone.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AllZone.cshtml",
+              "RelativeDocumentMoniker": "HYDSWM\\Views\\Master\\AllZone.cshtml",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AllZone.cshtml",
+              "RelativeToolTip": "HYDSWM\\Views\\Master\\AllZone.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAIBZwD0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T09:34:36.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddCity.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AddCity.cshtml",
+              "RelativeDocumentMoniker": "HYDSWM\\Views\\Master\\AddCity.cshtml",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AddCity.cshtml",
+              "RelativeToolTip": "HYDSWM\\Views\\Master\\AddCity.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T05:15:20.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AllCircle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AllCircle.cshtml",
+              "RelativeDocumentMoniker": "HYDSWM\\Views\\Master\\AllCircle.cshtml",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Views\\Master\\AllCircle.cshtml",
+              "RelativeToolTip": "HYDSWM\\Views\\Master\\AllCircle.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAIBZwDsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T09:25:35.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MasterService.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\SERVICES\\MasterService.cs",
+              "RelativeDocumentMoniker": "HYDSWMAPI\\SERVICES\\MasterService.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\SERVICES\\MasterService.cs",
+              "RelativeToolTip": "HYDSWMAPI\\SERVICES\\MasterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:05:06.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HYDSWMAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HYDSWMAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:11:45.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HYDSWM\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HYDSWM\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAkwCYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:12:21.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CollectionService.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\SERVICES\\CollectionService.cs",
+              "RelativeDocumentMoniker": "HYDSWMAPI\\SERVICES\\CollectionService.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\SERVICES\\CollectionService.cs",
+              "RelativeToolTip": "HYDSWMAPI\\SERVICES\\CollectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:05:08.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HYDSWM\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HYDSWM\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAD4vyAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:44:25.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CollectionController.cs",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\Controllers\\CollectionController.cs",
+              "RelativeDocumentMoniker": "HYDSWMAPI\\Controllers\\CollectionController.cs",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\Controllers\\CollectionController.cs",
+              "RelativeToolTip": "HYDSWMAPI\\Controllers\\CollectionController.cs",
+              "ViewState": "AQIAAAMGAAAAAAAAAAD4vxAGAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:44:21.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HYDSWM.csproj",
+              "DocumentMoniker": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\HYDSWM.csproj",
+              "RelativeDocumentMoniker": "HYDSWM\\HYDSWM.csproj",
+              "ToolTip": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\HYDSWM.csproj",
+              "RelativeToolTip": "HYDSWM\\HYDSWM.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T04:31:07.601Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

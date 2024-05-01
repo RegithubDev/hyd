@@ -1,0 +1,9 @@
+C:\Users\madhuri\Desktop\Projects\HYDSWM\HYDSWM\obj\Debug\net8.0\HYDSWM.csproj.AssemblyReference.cache
+C:\Users\madhuri\Desktop\Projects\HYDSWM\HYDSWM\obj\Debug\net8.0\HYDSWM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madhuri\Desktop\Projects\HYDSWM\HYDSWM\obj\Debug\net8.0\HYDSWM.AssemblyInfoInputs.cache
+C:\Users\madhuri\Desktop\Projects\HYDSWM\HYDSWM\obj\Debug\net8.0\HYDSWM.AssemblyInfo.cs
+C:\Users\madhuri\Desktop\Projects\HYDSWM\HYDSWM\obj\Debug\net8.0\HYDSWM.csproj.CoreCompileInputs.cache
+C:\Users\madhuri\Desktop\Projects\HYDSWM\HYDSWM\obj\Debug\net8.0\HYDSWM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\madhuri\Desktop\Projects\HYDSWM\HYDSWM\obj\Debug\net8.0\HYDSWM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\madhuri\Desktop\Projects\HYDSWM\HYDSWM\obj\Debug\net8.0\HYDSWM.RazorAssemblyInfo.cache
+C:\Users\madhuri\Desktop\Projects\HYDSWM\HYDSWM\obj\Debug\net8.0\HYDSWM.RazorAssemblyInfo.cs
