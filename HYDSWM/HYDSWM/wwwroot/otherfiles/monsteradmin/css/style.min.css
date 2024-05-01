@@ -12,7 +12,7 @@
     text-rendering: auto;
     line-height: 1
 }
-
+ 
 .fa-lg {
     font-size: 1.33333em;
     line-height: .75em;
@@ -18878,14 +18878,15 @@ button {
     }
 
 button, input, optgroup, select, textarea {
-    margin: 0;
+    margin: 0px;
     font-family: inherit;
     font-size: inherit;
     line-height: inherit
 }
 
 button, select {
-    text-transform: none
+    text-transform: none;
+        margin-left:9px;
 }
 
 [role=button] {
@@ -19494,7 +19495,7 @@ progress {
 
     .col-sm-6 {
         flex: 0 0 auto;
-        width: 50%
+        width: 33.5%
     }
 
     .col-sm-7 {
@@ -20507,7 +20508,7 @@ progress {
 }
 
 .form-control:disabled, .form-control:read-only {
-    background-color: #e9ecef;
+    background-color: #fff;
     opacity: 1
 }
 
@@ -20718,7 +20719,7 @@ textarea.form-control-lg {
     height: 1.375em;
     margin-top: .0625em;
     vertical-align: top;
-    background-color: #eaedf5;
+    background-color: #fafafa;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -21046,7 +21047,7 @@ textarea.form-control-lg {
 }
 
 .input-group > :not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
-    margin-left: -1px;
+    margin-left: 9px;
     border-top-left-radius: 0;
     border-bottom-left-radius: 0
 }
@@ -21270,15 +21271,15 @@ textarea.form-control-lg {
 
 .btn-primary {
     color: #fff;
-    background-color: #7460ee;
-    border-color: #7460ee;
+    background-color: #da0d14;
+    border-color: #da0d14;
     box-shadow: 0 1px 0 rgba(255,255,255,.15)
 }
 
     .btn-primary:hover {
         color: #fff;
-        background-color: #6352ca;
-        border-color: #5d4dbe
+        background-color: #da0d14;
+        border-color: #da0d14;
     }
 
     .btn-check:focus + .btn-primary, .btn-primary:focus {
@@ -21290,8 +21291,8 @@ textarea.form-control-lg {
 
     .btn-check:active + .btn-primary, .btn-check:checked + .btn-primary, .btn-primary.active, .btn-primary:active, .show > .btn-primary.dropdown-toggle {
         color: #fff;
-        background-color: #5d4dbe;
-        border-color: #5748b3
+        background-color: #da0d14;
+        border-color: #da0d14;
     }
 
         .btn-check:active + .btn-primary:focus, .btn-check:checked + .btn-primary:focus, .btn-primary.active:focus, .btn-primary:active:focus, .show > .btn-primary.dropdown-toggle:focus {
@@ -32695,7 +32696,8 @@ svg.tea {
 
     .topbar .top-navbar {
         min-height: 70px;
-        padding: 0
+        padding: 0;
+        
     }
 
         .topbar .top-navbar .dropdown-toggle::after {
@@ -36971,7 +36973,10 @@ button:focus {
 }
 
     .btn-danger.active, .btn-danger.disabled, .btn-danger:disabled, .btn-danger:focus, .btn-danger:hover, .btn-info.active, .btn-info.disabled, .btn-info:disabled, .btn-info:focus, .btn-info:hover, .btn-primary.active, .btn-primary.disabled, .btn-primary:disabled, .btn-primary:focus, .btn-primary:hover, .btn-secondary.active, .btn-secondary.disabled, .btn-secondary:disabled, .btn-secondary:focus, .btn-secondary:hover, .btn-success.active, .btn-success.disabled, .btn-success:disabled, .btn-success:focus, .btn-success:hover, .btn-warning.active, .btn-warning.disabled, .btn-warning:disabled, .btn-warning:focus, .btn-warning:hover {
-        color: #fff
+        color: #fff;
+        background-color: #da0d14;
+        border-color: #da0d14;
+
     }
 
 .btn-outline-danger:hover, .btn-outline-info:hover, .btn-outline-primary:hover, .btn-outline-success:hover, .btn-outline-warning:hover {
