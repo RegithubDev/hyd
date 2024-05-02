@@ -18886,7 +18886,7 @@ button, input, optgroup, select, textarea {
 
 button, select {
     text-transform: none;
-        margin-left:9px;
+        margin-left:6px;
 }
 
 [role=button] {
@@ -32695,7 +32695,7 @@ svg.tea {
     }
 
     .topbar .top-navbar {
-        min-height: 70px;
+        height: 70px;
         padding: 0;
         
     }

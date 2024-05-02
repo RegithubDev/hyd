@@ -10744,19 +10744,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Umamaheswara\\.nuget\\packages\\": {}
+    "C:\\Users\\madhuri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\HYDSWM.csproj",
+      "projectUniqueName": "D:\\New folder\\hyd\\HYDSWM\\HYDSWM\\HYDSWM.csproj",
       "projectName": "HYDSWM",
-      "projectPath": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\HYDSWM.csproj",
-      "packagesPath": "C:\\Users\\Umamaheswara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWM\\obj\\",
+      "projectPath": "D:\\New folder\\hyd\\HYDSWM\\HYDSWM\\HYDSWM.csproj",
+      "packagesPath": "C:\\Users\\madhuri\\.nuget\\packages\\",
+      "outputPath": "D:\\New folder\\hyd\\HYDSWM\\HYDSWM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Umamaheswara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\madhuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10770,8 +10770,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\COMMON\\COMMON.csproj": {
-              "projectPath": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\COMMON\\COMMON.csproj"
+            "D:\\New folder\\hyd\\HYDSWM\\COMMON\\COMMON.csproj": {
+              "projectPath": "D:\\New folder\\hyd\\HYDSWM\\COMMON\\COMMON.csproj"
             }
           }
         }
@@ -10867,7 +10867,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   },
