@@ -212,7 +212,7 @@ namespace HYDSWM.Controllers
         
 
         [CustomPostAuthorize]
-        public IActionResult ChennaiDashboard()
+        public IActionResult BIReports()
         {
             ViewBag.UserId = this.User.GetUserId();
             return View();

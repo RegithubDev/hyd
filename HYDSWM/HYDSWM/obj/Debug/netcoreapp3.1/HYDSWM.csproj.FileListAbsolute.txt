@@ -3328,3 +3328,4 @@ D:\New folder\hyd\HYDSWM\HYDSWM\obj\Debug\netcoreapp3.1\HYDSWM.csproj.Up2Date
 D:\New folder\hyd\HYDSWM\HYDSWM\obj\Debug\netcoreapp3.1\HYDSWM.dll
 D:\New folder\hyd\HYDSWM\HYDSWM\obj\Debug\netcoreapp3.1\HYDSWM.pdb
 D:\New folder\hyd\HYDSWM\HYDSWM\obj\Debug\netcoreapp3.1\HYDSWM.genruntimeconfig.cache
+D:\New folder\hyd\HYDSWM\HYDSWM\obj\Debug\netcoreapp3.1\Razor\Views\Asset\BIReports.cshtml.g.cs
