@@ -20705,7 +20705,7 @@ textarea.form-control-lg {
 .form-check {
     display: block;
     min-height: 1.5rem;
-    padding-left: 1.875em;
+    padding-left: 0.875em;
     margin-bottom: .125rem
 }
 
@@ -36894,7 +36894,8 @@ html[dir=rtl] #main-wrapper[data-layout=horizontal] #main-wrapper[data-sidebarty
 
 .button-group .btn {
     margin-bottom: 8px;
-    margin-right: 8px
+    margin-left: 11px;
+    margin-top: 8px;
 }
 
 .btn-circle {

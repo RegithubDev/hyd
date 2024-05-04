@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\New folder\\hyd\\HYDSWM\\COMMON\\COMMON.csproj",
         "projectName": "COMMON",
         "projectPath": "D:\\New folder\\hyd\\HYDSWM\\COMMON\\COMMON.csproj",
-        "packagesPath": "C:\\Users\\madhuri\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Umamaheswara\\.nuget\\packages\\",
         "outputPath": "D:\\New folder\\hyd\\HYDSWM\\COMMON\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\madhuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Umamaheswara\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -100,11 +100,11 @@
         "projectUniqueName": "D:\\New folder\\hyd\\HYDSWM\\HYDSWM\\HYDSWM.csproj",
         "projectName": "HYDSWM",
         "projectPath": "D:\\New folder\\hyd\\HYDSWM\\HYDSWM\\HYDSWM.csproj",
-        "packagesPath": "C:\\Users\\madhuri\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Umamaheswara\\.nuget\\packages\\",
         "outputPath": "D:\\New folder\\hyd\\HYDSWM\\HYDSWM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\madhuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Umamaheswara\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -215,7 +215,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

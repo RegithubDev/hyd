@@ -660,7 +660,7 @@ select[multiple], select[size] {
 }
 
     .form-check:not(.form-check-inline):last-child {
-        margin-bottom: 0
+        margin-top: 6px;
     }
 
 .form-group.row .form-check:not(.dropdown-item) {
