@@ -11238,11 +11238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\HYDSWMAPI.csproj",
+      "projectUniqueName": "D:\\New folder\\hyd\\HYDSWM\\HYDSWMAPI\\HYDSWMAPI.csproj",
       "projectName": "HYDSWMAPI",
-      "projectPath": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\HYDSWMAPI.csproj",
+      "projectPath": "D:\\New folder\\hyd\\HYDSWM\\HYDSWMAPI\\HYDSWMAPI.csproj",
       "packagesPath": "C:\\Users\\Umamaheswara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\HYDSWMAPI\\obj\\",
+      "outputPath": "D:\\New folder\\hyd\\HYDSWM\\HYDSWMAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Umamaheswara\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11259,8 +11259,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\COMMON\\COMMON.csproj": {
-              "projectPath": "C:\\Users\\Umamaheswara\\Desktop\\Hyd_project\\Hyd_project\\HYDSWM\\COMMON\\COMMON.csproj"
+            "D:\\New folder\\hyd\\HYDSWM\\COMMON\\COMMON.csproj": {
+              "projectPath": "D:\\New folder\\hyd\\HYDSWM\\COMMON\\COMMON.csproj"
             }
           }
         }
