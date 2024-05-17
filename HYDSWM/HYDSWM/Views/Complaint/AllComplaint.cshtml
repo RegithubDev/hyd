@@ -58,6 +58,7 @@
             <div class="list-icons">
                 @*<a title="Download QR Code" cid="" onclick="GetMultipleQrCode(this);" id="btnDownload"><i class="icon-download7"></i></a>*@
                 @*<a title="Add" cid="" onclick="CallFunc(this);" id="btnAdd"><i class="icon-add"></i></a>*@
+                <a title="Add" cid="" onclick="CallFunc1(this);" id="btnAdd"><i class="icon-add"></i></a>
                 <a class="list-icons-item" data-action="collapse"></a>
                 <a class="list-icons-item" data-action="reload"></a>
                 <a class="list-icons-item" data-action="remove"></a>
@@ -133,7 +134,7 @@
 <input type="hidden" id="hfRoleId" value="@ViewBag.RoleId" />
 <input type="hidden" id="hfLoginid" value="@ViewBag.LoginId" />
 <!-- Vertical form modal -->
-<div id="modal_form_vertical" class="modal fade" tabindex="-1" data-backdrop="static" data-keyboard="false" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+<div id="modal_form_vertical" class="modal fade" tabindex="-1" data-backdrop="static" data-keyboard="false" role="dialog" aria-labelledby="exampleModalLongTitle">
     <div class="modal-dialog  modal-lg" id="dvUpdComp">
         <form class="form-validate-jquery" onsubmit="return Formsubmit();" name="registration">
             <div class="modal-content">
@@ -235,7 +236,7 @@
     }
 </script>
 @section scripts {
-
+    
     <link href="~/otherfiles/FancyBox/jquery.fancybox.min.css" rel="stylesheet" />
     <script src="~/otherfiles/FancyBox/jquery.fancybox.min.js"></script>
     <link href="~/otherfiles/monsteradmin/css/bootstrap-datepicker.min.css" rel="stylesheet" />
@@ -245,6 +246,7 @@
     <script src="~/js/CommonHelper.js?@DateTime.Now.Ticks"></script>
     <script src="~/ViewJs/Common/AllGenericFunc.js?@DateTime.Now.Ticks"></script>
     <script src="~/ViewJs/Complaint/ComplaintInfo.js?@DateTime.Now.Ticks"></script>
+
 }
 
 

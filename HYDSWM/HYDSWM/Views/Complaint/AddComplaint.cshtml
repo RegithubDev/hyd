@@ -1,0 +1,146 @@
+﻿
+<div class="modal-content">
+    <div class="modal-header">
+        <h3 class="modal-title">@ViewBag.add_upd Add Complaint </h3>
+        <button type="button" class="close" data-dismiss="modal" onclick="CloseModal()">&times;</button>
+    </div>
+    @*<button type="button" class="btn bg-primary" id="alert" onclick="ShowMessage('1','record added');">Launch <i class="icon-play3 ml-2"></i></button>*@
+
+    <div class="modal-body">
+
+
+        <div class="form-group">
+            <div class="row">
+
+                <div class="col-sm-4">
+                    <label>Complainant Name.</label>
+                    <input type="hidden" id="hfComplaint" />
+                    <span class="text-danger">*</span>
+                    <input type="text" placeholder="Complaint Name." class="form-control" id="complaint_name" onkeypress="return isAlpha(event.keyCode);" required>
+                </div>
+
+                <div class="col-sm-4">
+                    <label>Complainant Contact No.</label>
+                    <input type="hidden" id="hfComplaint" />
+                    <span class="text-danger">*</span>
+                    <input type="text" placeholder="Complaint Contact No." class="form-control" id="complaint_num" onkeypress="return isAlpha(event.keyCode);" required>
+                </div>
+
+
+                <div class="col-sm-4">
+                    <label> Complaint Category</label>
+                    <span class="text-danger">*</span>
+                    <select id="ddlCategory" required="" class="form-control"><option value="">Select</option><option value="1">REMOVAL OF GARBAGE</option><option value="2">ABSENTEEISM OF SWEEPERS</option><option value="3">OVERFLOWING OF GARBAGE BIN</option><option value="4">PROVISION OF GARBAGE BIN</option><option value="5">BROKEN BIN</option><option value="6">IMPROPER SWEEPING</option><option value="7">SPILLING OF GARBAGE FROM LORRY</option><option value="8">GARBAGE LORRY WITHOUT NET</option><option value="9">ABSENTEEISM OF DOOR TO DOOR GARBAGE COLLECTOR</option><option value="10">NUISANCE BY GARBAGE COMPACTOR OR TRUCK</option><option value="12">SHIFTING OF GARBAGE BIN</option><option value="13">BURNING OF GARBAGE</option><option value="14">DEATH OF STRAY ANIMALS</option><option value="29">SPILLAGE OF GARBAGE FROM BOV</option></select>
+                    </div>
+                <div class="form-group">
+                    <div class="row">
+
+                <div class="col-sm-4">
+                    <label>Location</label>
+                    <span class="text-danger">*</span>
+                    <textarea rows="3" cols="3" class="form-control" placeholder="Location" id="complaint_add" required=""></textarea>
+                </div>
+
+                <div class="col-sm-4">
+                    <label> Ward</label>
+                    <span class="text-danger">*</span>
+                    <select id="ddlWard" required="" class="form-control">
+                        <option value="" data-select2-id="select2-data-43-6n12">Select</option>
+                        <option value="1">12</option>
+                        <option value="2">14</option>
+                        <option value="3">37</option>
+                        <option value="4">50</option>
+                        <option value="5">59</option>
+                        <option value="6">62</option>
+                        <option value="7">66</option>
+                        <option value="8">76</option>
+                        <option value="9">100</option>
+                        <option value="10">Depo</option>
+                        <option value="11">70</option>
+                        <option value="12">17</option>
+                        <option value="13">28</option>
+                        <option value="14">33</option>
+                        <option value="15">34</option>
+                        <option value="16">55</option>
+                        <option value="17">57</option>
+                        <option value="18">69</option>
+                        <option value="19">87</option>
+                        <option value="20">88</option>
+                        <option value="21">95</option>
+                        <option value="22">98</option>
+                        <option value="23">103</option>
+                        <option value="24">Depot</option>
+                        <option value="25">11</option>
+                        <option value="26">13</option>
+                        <option value="27">15</option>
+                        <option value="28">40</option>
+                        <option value="29">42</option>
+                        <option value="30">43</option>
+                        <option value="31">51</option>
+                        <option value="32">68</option>
+                        <option value="33">72</option>
+                        <option value="34">77</option>
+                        <option value="35">80</option>
+                        <option value="36">86</option>
+                        <option value="37">92</option>
+                        <option value="38">96</option>
+                        <option value="39">Depot</option>
+                    </select>
+                </div>
+                <div class="col-sm-4">
+                    <label>Upload File</label>
+                    <input type="file" id="files" name="files" class="form-control h-auto" accept=".jpg,.jpeg,.png,.gif,.bmp" value="">
+                    </div>
+                  </div>
+                </div>
+               </div>
+
+
+                    <div class="form-group">
+                        <div class="row">
+
+               <div class="col-sm-4">
+                    <label>Description</label>
+                    <span class="text-danger">*</span>
+                    <textarea rows="3" cols="3" class="form-control" placeholder="Description" id="complaint_descrip" required=""></textarea>
+                </div>
+                <input type="hidden" id="add_upd1"/>
+                <input type="hidden" id="SComplaintId"/>
+              
+                
+
+                
+
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.452697041917!2d78.39076592375736!3d17.43803374982052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9144cdba8c47%3A0x937fe346f411a645!2sTutorials%20Point%20(India)%20Ltd.!5e0!3m2!1sen!2sin!4v1673629212535!5m2!1sen!2sin"
+                        width="600"
+                        height="450"
+                        style="border:0;"
+                        allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
+
+
+            </div>
+        </div>
+    </div>
+    <div class="card-footer d-flex justify-content-between align-items-center bg-info border-top-0">
+        <button type="button" class="btn bg-transparent text-white border-white border-2" data-dismiss="modal" onclick="CloseModal()">Close</button>
+        <button type="submit" class="btn btn-outline bg-white text-white border-white border-2">Submit <i class="icon-paperplane ml-2"></i></button>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+
+    function isAlpha(keyCode) {
+
+        return ((keyCode >= 65 && keyCode <= 90) || keyCode == 8 || keyCode == 32 || keyCode == 190 || (keyCode >= 48 && keyCode <= 57) || (keyCode >= 97 && keyCode <= 122))
+
+    }
+    $(document).keydown(function (keyCode) {
+        if (keyCode.ctrlKey == true && (keyCode.which == '118' || keyCode.which == '86')) {
+
+            keyCode.preventDefault();
+        }
+    });
+</script>

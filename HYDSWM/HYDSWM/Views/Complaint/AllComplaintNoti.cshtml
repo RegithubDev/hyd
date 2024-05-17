@@ -57,7 +57,7 @@
 
             <div class="list-icons">
                     @*<a title="Download QR Code" cid="" onclick="GetMultipleQrCode(this);" id="btnDownload"><i class="icon-download7"></i></a>*@
-                    <a title="Add" cid="" onclick="CallFunc(this);" id="btnAdd"><i class="icon-add"></i></a>
+                    <a title="Add" cid="" onclick="CallFunc(this,1);" id="btnAdd"><i class="icon-add"></i></a>
                 <a class="list-icons-item" data-action="collapse"></a>
                 <a class="list-icons-item" data-action="reload"></a>
                 <a class="list-icons-item" data-action="remove"></a>
@@ -84,28 +84,38 @@
                         <tr>
                             <th>Sr. No</th>
                             <th>Image</th>
-                            <th>Complaint No</th>
-                            <th>Complaint Category</th>
-                            <th>Location</th>
-                            <th>GPS Location</th>
-                            <th>Description</th>
-                            <th>Created By</th>
-                            <th>Complaint Created On</th>
-                            <th>Complaint Closure On</th>
-                            <th>Actual Duration(Hr:Min)</th>
-                            <th>Status</th>
-                            <th>Close Time Location</th>
-                            <th>Closing Image</th>
-                            <th>Action Remarks</th>
-                            <th>Closed By</th>
-                            <th>Transfer Station</th>
+                            <th>CG No</th>
+                            <th>GCC COMP REF</th>
+                            <th>COMPLAINT NAME</th>
+                            <th>COMPLAINT CONTACT No</th>
+                            <th>COMPLAINT CATEGORY</th>
+                            <th>DESCRIPTION</th>
+                            <th>ZONE</th>
+                            <th>WARD NO</th>
+                            <th>STREET LOCATION</th>
+                            <th>LOCATION</th>
+                            <th>COMPLAINT CREATED ON</th>
+                            <th>COMPLAINT CLOSURE ON</th>
+                            <th>MODE OF REPORTING</th>
+                            <th>PREDEFINED SLA DURATION(MIN)</th>
+                            <th>ACTUAL DURATION(HR:MIN)</th>
+                            <th>STATUS</th>
+                            <th>CLOSE TIME LOCATION</th>
+                            <th>CLOSING IMAGE</th>
+                            <th>ACTION REMARKS</th>
+                            <th>REVISEED WARD NO</th>
+                            <th>REVISEED STREET LOCATION</th>
+                            <th>ACTION</th>
+                            
+                            
+
                         </tr>
                     </thead>
                     <tfoot>
                     </tfoot>
                     <tbody></tbody>
                 </table>
-
+                
 
             </div>
         </div>
@@ -114,6 +124,20 @@
 </div>
 <input type="hidden" id="hfRoleId" value="@ViewBag.RoleId" />
 <input type="hidden" id="hfLoginid" value="@ViewBag.LoginId" />
+
+<!-- Vertical form modal -->
+<div id="modal_form_AddDetail" class="modal fade" tabindex="-1" data-backdrop="static" data-keyboard="false" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <form class="form-validate-jquery" onsubmit="return Formsubmit();">
+            <div id="user_content">
+            </div>
+
+        </form>
+    </div>
+</div>
+<!-- /vertical form modal -->
+
+
 
 <script>
     function CloseModal() {
@@ -124,6 +148,12 @@
 
     <link href="~/otherfiles/FancyBox/jquery.fancybox.min.css" rel="stylesheet" />
     <script src="~/otherfiles/FancyBox/jquery.fancybox.min.js"></script>
+    <script src="~/otherfiles/Light/global_assets/js/plugins/forms/selects/nselect2.min.js"></script>
+    <script src="~/otherfiles/monsteradmin/assets/libs/select2/dist/js/select2.full.min.js"></script>
+    <script src="~/otherfiles/monsteradmin/assets/libs/select2/dist/js/select2.min.js"></script>
+    <script src="~/otherfiles/monsteradmin/assets/libs/select2/dist/js/select2.init.js"></script>
+    <script src="/otherfiles/Light/global_assets/js/demo_pages/form_layouts.js"></script>
+    <script src="/otherfiles/global_assets/js/plugins/forms/selects/bootstrap_multiselect.js"></script>
     <script src="~/js/CommonHelper.js?@DateTime.Now.Ticks"></script>
     <script src="~/ViewJs/Common/AllGenericFunc.js?@DateTime.Now.Ticks"></script>
     <script src="~/ViewJs/Complaint/ComplaintNotiInfo.js?@DateTime.Now.Ticks"></script>

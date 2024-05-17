@@ -94,6 +94,17 @@ namespace DEMOSWMCKC.Controllers
             return Json(Result);
         }
 
+
+        [HttpPost]
+        [CustomPostAuthorize]
+        public JsonResult GetComplaintInfoById(string CId)
+        {
+            string endpoint = "api/Master/GetComplaintInfoById?CId=" + CId;
+            HttpClientHelper<string> apiobj = new HttpClientHelper<string>();
+            string Result = apiobj.GetRequest(endpoint);
+            return Json(Result);
+        }
+
         [CustomAuthorize]
         public IActionResult AllZone()
         {

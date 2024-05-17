@@ -28,6 +28,7 @@
   <ItemGroup>
     <Folder Include="wwwroot\content\Logs\" />
     <Folder Include="wwwroot\TempFile\" />
+    <Folder Include="wwwroot\ViewJs\Complaint\uploads\" />
   </ItemGroup>
 
   <ItemGroup>

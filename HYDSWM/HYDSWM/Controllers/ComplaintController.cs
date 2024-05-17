@@ -1,5 +1,6 @@
 ﻿using COMMON;
 using COMMON.ASSET;
+using DocumentFormat.OpenXml.Drawing.Diagrams;
 using HYDSWM;
 using HYDSWM.Helpers;
 using HYDSWMAPI;
@@ -7,6 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Hosting;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
@@ -66,6 +68,20 @@ namespace DEMOSWMCKC.Controllers
             var response = new { data = _lst, recordsFiltered = tt, recordsTotal = tt };
             return Json(response);
         }
+
+
+        [HttpPost]
+        [CustomPostAuthorize]
+        public JsonResult GetComplaintInfoById(string CId)
+        {
+            string endpoint = "api/Complaint/GetComplaintInfoById?CId=" + CId;
+            HttpClientHelper<string> apiobj = new HttpClientHelper<string>();
+            string Result = apiobj.GetRequest(endpoint);
+            return Json(Result);
+        }
+
+
+
 
         [HttpPost]
         public FileResult ExportGetAllStaffComplaint_Paging(string ContratorId, string NotiId, string FName)
@@ -225,5 +241,143 @@ namespace DEMOSWMCKC.Controllers
             string output = apiobj.PostRequestString(endpoint, input);
             return Json(output);
         }
+
+        [CustomPostAuthorize]
+        public object SaveAndUpdateComplaintInfo()
+        {
+
+            string input1 = Request.Query["Complaintdata"].ToString();
+            string formdata = Request.Form.ToString();
+
+
+            var formFile = HttpContext.Request.Form.Files[0];
+
+            var fileName = formFile.FileName;
+
+            var uploads = "D:\\New folder\\hyd\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Complaint\\uploads";
+            string FileName = formFile.FileName;
+            using (var fileStream = new FileStream(Path.Combine(uploads, FileName), FileMode.Create))
+            {
+                formFile.CopyToAsync(fileStream);
+            }
+
+
+           
+
+
+            dynamic dresult = JObject.Parse(input1);
+           
+            string complaint_name = dresult.complaint_name;
+
+            string complaint_num = dresult.complaint_num;
+
+            string ddlCategory = dresult.ddlCategory;
+
+            string complaint_add = dresult.complaint_add;
+
+            string ddlWard = dresult.ddlWard;
+
+            string Complaint_descrip = dresult.Complaint_descrip;
+
+            string add_upd1 = dresult.add_upd1;
+
+            string SComplaintId = dresult.SComplaintId;
+
+            var obj = new
+            {
+                complaint_name = complaint_name,
+                complaint_num = complaint_num,
+                ddlCategory = ddlCategory,
+                ddlWard = ddlWard,
+                Complaint_descrip = Complaint_descrip,
+                add_upd1 = add_upd1,
+                SComplaintId = SComplaintId,
+                complaint_add = complaint_add
+
+            };
+
+            string input = JsonConvert.SerializeObject(obj);
+            string endpoint = "api/Complaint/SaveAndUpdateCCategory";
+            HttpClientHelper<string> apiobj = new HttpClientHelper<string>();
+            string output = apiobj.PostRequestString(endpoint, input);
+            return Json(output);
+        }
+
+
+        [CustomPostAuthorize]
+        public object UpdateComplaintInfo()
+        {
+
+            string input1 = Request.Query["Complaintdata"].ToString();
+            string formdata = Request.Form.ToString();
+
+
+            var formFile = HttpContext.Request.Form.Files[0];
+
+            var fileName = formFile.FileName;
+
+            var uploads = "D:\\New folder\\hyd\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Complaint\\uploads";
+            string FileName = formFile.FileName;
+            using (var fileStream = new FileStream(Path.Combine(uploads, FileName), FileMode.Create))
+            {
+                formFile.CopyToAsync(fileStream);
+            }
+
+
+
+
+
+            dynamic dresult = JObject.Parse(input1);
+
+            string revised_ward_num = dresult.revised_ward_num;
+
+            string Status = dresult.Status;
+
+            string Action_Remark = dresult.Action_Remark;
+
+            string address = dresult.address;
+
+            string SComplaintId = dresult.SComplaintId;
+
+            
+
+            var obj = new
+            {
+                revised_ward_num = revised_ward_num,
+                Status = Status,
+                Action_Remark = Action_Remark,
+                address = address,
+              SComplaintId = SComplaintId
+
+            };
+
+            string input = JsonConvert.SerializeObject(obj);
+            string endpoint = "api/Complaint/UpdateCCategory";
+            HttpClientHelper<string> apiobj = new HttpClientHelper<string>();
+            string output = apiobj.PostRequestString(endpoint, input);
+            return Json(output);
+        }
+
+
+
+        public IActionResult AddComplaint()
+        {
+
+            
+
+
+            return PartialView();
+        }
+
+        public IActionResult UpdateComplaint()
+        {
+
+
+
+
+            return PartialView();
+        }
+
+
     }
 }

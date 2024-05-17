@@ -19,17 +19,17 @@ function SaveAndUpdateComplaintInfo() {
 
     var IFormData = {
 
-        CCId: $("#hfCCId").val(),
+        complaint_num: $("#complaint_num").val(),
         StatusId: StatusId,
-        ActionRemark: $("#txtActionRemarks").val(),
-        UserId: $("#hfLoginid").val(),
-        CLat: $("#hfCLat").val(),
-        CAddress: $("#txtCAddress").val(),
-        CLng: $("#hfCLng").val(),
+        complaint_cat: $("#complaint_cat").val(),
+        complaint_add: $("#complaint_add").val(),
+        complaint_descrip: $("#complaint_descrip").val(),
+        Transfer_station: $("#Transfer_station").val(),
+        ckbIsActive: $("#ckbIsActive").val(),
     };
 
     var formData = new FormData();
-    formData.append('file', $('#Cfiles')[0].files[0]);
+ 
     formData.append('input', JSON.stringify(IFormData));
 
     if (IFormData.CCId == '' || IFormData.StatusId == '' || IFormData.ActionRemark == '')
@@ -55,7 +55,7 @@ function SaveAndUpdateComplaintInfo() {
                 }
             },
             error: function (result) {
-                HideLoading($('#dvUpdComp'));
+               HideLoading($('#dvUpdComp'));
                 ShowMessage('0', 'Something Went Wrong!');
             }
         });
@@ -64,6 +64,25 @@ function SaveAndUpdateComplaintInfo() {
         ShowMessage('0', 'Please Enter All Required Details');
 
 }
+
+
+function CallFunc1(obj) {
+    
+    //var ddId = $(obj).attr('cid');
+    $('#model_content').load("/Complaint/AddComplaint");
+    $('#modal_form_AddDetail').modal('toggle');
+
+    //if (ddId > 0) {
+
+        //SetDataOnControls(ddId);
+
+    //}
+}
+
+
+
+
+
 function ShowMessage(typemsg, msg) {
 
     if (typemsg == '1') {
@@ -73,7 +92,7 @@ function ShowMessage(typemsg, msg) {
             type: 'success'
         },
             function () {
-                window.location.href = '/Complaint/AllComplaint';
+                //window.location.href = '/Complaint/AllComplaint';
             });
     }
     else {
@@ -382,7 +401,7 @@ function GetDataTableData(Type) {
                 "render": function (data, type, row, meta) {
 
                     if (row.IsClosed == false) {
-                        return "<a cid='" + row.Complaintcode + "' C2Id='" + row.SComplaintId + "'Lat='" + row.FLat + "'Lng='" + row.FLng + "'Address='" + row.FAddress + "'  href='javascript:void(0);' title='edit' onclick='CallFunc(this);'><i class='ti-pencil'></i></a>";
+                        return "<a cid='" + row.Complaintcode + "' CId='" + row.SComplaintId + "'Lat='" + row.FLat + "'Lng='" + row.FLng + "'Address='" + row.FAddress + "'  href='javascript:void(0);' title='edit' onclick='CallFunc(this);'><i class='ti-pencil'></i></a>";
                     }
                     else
                         return '';

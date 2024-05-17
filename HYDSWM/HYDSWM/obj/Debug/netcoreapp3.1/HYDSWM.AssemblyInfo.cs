@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HYDSWM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f84f1eb4ee07a4143830162a1d4a661736dc1f69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5354c351728ca03cf473e6ec954bdfe2d95d23df")]
 [assembly: System.Reflection.AssemblyProductAttribute("HYDSWM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HYDSWM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
