@@ -11,6 +11,75 @@
           "lib/BouncyCastle.Crypto.dll": {}
         }
       },
+      "CommonServiceLocator/1.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll": {
+            "related": ".pdb;.XML"
+          }
+        },
+        "runtime": {
+          "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll": {
+            "related": ".pdb;.XML"
+          }
+        }
+      },
+      "CrossPlatformAdapter/1.0.12": {
+        "type": "package",
+        "dependencies": {
+          "Guards": "(, )"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win81+netcore45+monoandroid1+xamarin.ios10/PlatformAdapter.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win81+netcore45+monoandroid1+xamarin.ios10/PlatformAdapter.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "CrossPlatformLibrary/1.0.73": {
+        "type": "package",
+        "dependencies": {
+          "CommonServiceLocator": "1.3.0",
+          "CrossPlatformAdapter": "1.0.12",
+          "Guards": "1.0.10"
+        },
+        "compile": {
+          "lib/net45/CrossPlatformLibrary.Platform.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/net45/CrossPlatformLibrary.dll": {
+            "related": ".pdb;.Platform.pdb;.Platform.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/CrossPlatformLibrary.Platform.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/net45/CrossPlatformLibrary.dll": {
+            "related": ".pdb;.Platform.pdb;.Platform.xml;.xml"
+          }
+        }
+      },
+      "CrossPlatformLibrary.Geolocation/1.0.25": {
+        "type": "package",
+        "dependencies": {
+          "CrossPlatformLibrary": "1.0.73"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/CrossPlatformLibrary.Geolocation.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/CrossPlatformLibrary.Geolocation.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "CsvHelper/30.0.1": {
         "type": "package",
         "dependencies": {
@@ -80,6 +149,47 @@
         },
         "runtime": {
           "lib/netstandard2.0/ExcelDataReader.DataSet.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "GeoCoordinate/2.0.1": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.0"
+        }
+      },
+      "GeoCoordinate.NetCore/1.0.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.6/GeoCoordinate.NetCore.dll": {
+            "related": ".deps.json"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.6/GeoCoordinate.NetCore.dll": {
+            "related": ".deps.json"
+          }
+        }
+      },
+      "GoogleMaps.LocationServices/1.2.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/GoogleMaps.LocationServices.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/GoogleMaps.LocationServices.dll": {}
+        }
+      },
+      "Guards/1.0.10": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+dnxcore50+wp80+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/Guards.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/portable-net45+dnxcore50+wp80+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/Guards.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -2304,6 +2414,15 @@
           }
         }
       },
+      "System.Device.Location.Portable/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/System.Device.Portable.dll": {}
+        },
+        "runtime": {
+          "lib/System.Device.Portable.dll": {}
+        }
+      },
       "System.Diagnostics.Debug/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -3957,6 +4076,184 @@
         "lib/BouncyCastle.Crypto.dll"
       ]
     },
+    "CommonServiceLocator/1.3.0": {
+      "sha512": "fbjO0SNwbOFPdwVfyqv+B7gIJ2CVBOFPKqn1mDDECK7KER8jFaOdcvroFYoAHa0ktPbxi5s+15qOLnA96f8GSA==",
+      "type": "package",
+      "path": "commonservicelocator/1.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "commonservicelocator.1.3.0.nupkg.sha512",
+        "commonservicelocator.nuspec",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.XML",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.dll",
+        "lib/portable-net4+sl5+netcore45+wpa81+wp8/Microsoft.Practices.ServiceLocation.pdb"
+      ]
+    },
+    "CrossPlatformAdapter/1.0.12": {
+      "sha512": "QYwkEvjH8iMN4prSrIeGAa9c9IS6579Nnw5FgwxBVlv7Rb/6/V0+XECeUZFEeAuEY/nVcj86Sm1KMqV4QbN6ag==",
+      "type": "package",
+      "path": "crossplatformadapter/1.0.12",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "crossplatformadapter.1.0.12.nupkg.sha512",
+        "crossplatformadapter.nuspec",
+        "lib/MonoAndroid10/PlatformAdapter.dll",
+        "lib/MonoAndroid10/PlatformAdapter.pdb",
+        "lib/MonoAndroid10/PlatformAdapter.xml",
+        "lib/MonoTouch10/PlatformAdapter.dll",
+        "lib/MonoTouch10/PlatformAdapter.pdb",
+        "lib/MonoTouch10/PlatformAdapter.xml",
+        "lib/portable-net45+wp8+wpa81+win81+netcore45+monoandroid1+xamarin.ios10/PlatformAdapter.dll",
+        "lib/portable-net45+wp8+wpa81+win81+netcore45+monoandroid1+xamarin.ios10/PlatformAdapter.pdb",
+        "lib/portable-net45+wp8+wpa81+win81+netcore45+monoandroid1+xamarin.ios10/PlatformAdapter.xml",
+        "lib/win81/PlatformAdapter.dll",
+        "lib/win81/PlatformAdapter.pdb",
+        "lib/win81/PlatformAdapter.xml",
+        "lib/wp8/PlatformAdapter.dll",
+        "lib/wp8/PlatformAdapter.pdb",
+        "lib/wp8/PlatformAdapter.xml",
+        "lib/wpa81/PlatformAdapter.dll",
+        "lib/wpa81/PlatformAdapter.pdb",
+        "lib/wpa81/PlatformAdapter.xml",
+        "lib/xamarin.ios10/PlatformAdapter.dll",
+        "lib/xamarin.ios10/PlatformAdapter.pdb",
+        "lib/xamarin.ios10/PlatformAdapter.xml",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "CrossPlatformLibrary/1.0.73": {
+      "sha512": "bsk0Tzd9ljZbxeTycagww9vYzK0DxwbdiMA4/9WGnfxSvXvqL/8P2CiSq9hMF6BLZRhlI80nZbJqRCaQGXSY+w==",
+      "type": "package",
+      "path": "crossplatformlibrary/1.0.73",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/MonoTouch10/LinkerHelper.cs",
+        "content/xamarin.ios10/LinkerHelper.cs",
+        "crossplatformlibrary.1.0.73.nupkg.sha512",
+        "crossplatformlibrary.nuspec",
+        "lib/MonoAndroid10/CrossPlatformLibrary.Platform.dll",
+        "lib/MonoAndroid10/CrossPlatformLibrary.Platform.pdb",
+        "lib/MonoAndroid10/CrossPlatformLibrary.Platform.xml",
+        "lib/MonoAndroid10/CrossPlatformLibrary.dll",
+        "lib/MonoAndroid10/CrossPlatformLibrary.pdb",
+        "lib/MonoAndroid10/CrossPlatformLibrary.xml",
+        "lib/MonoTouch10/CrossPlatformLibrary.Platform.dll",
+        "lib/MonoTouch10/CrossPlatformLibrary.Platform.pdb",
+        "lib/MonoTouch10/CrossPlatformLibrary.Platform.xml",
+        "lib/MonoTouch10/CrossPlatformLibrary.dll",
+        "lib/MonoTouch10/CrossPlatformLibrary.pdb",
+        "lib/MonoTouch10/CrossPlatformLibrary.xml",
+        "lib/net45/CrossPlatformLibrary.Platform.dll",
+        "lib/net45/CrossPlatformLibrary.Platform.pdb",
+        "lib/net45/CrossPlatformLibrary.Platform.xml",
+        "lib/net45/CrossPlatformLibrary.dll",
+        "lib/net45/CrossPlatformLibrary.pdb",
+        "lib/net45/CrossPlatformLibrary.xml",
+        "lib/portable-net45+dnxcore50+wp80+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/CrossPlatformLibrary.dll",
+        "lib/portable-net45+dnxcore50+wp80+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/CrossPlatformLibrary.pdb",
+        "lib/portable-net45+dnxcore50+wp80+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/CrossPlatformLibrary.xml",
+        "lib/uap10.0/CrossPlatformLibrary.Platform.dll",
+        "lib/uap10.0/CrossPlatformLibrary.Platform.pdb",
+        "lib/uap10.0/CrossPlatformLibrary.Platform.xml",
+        "lib/uap10.0/CrossPlatformLibrary.dll",
+        "lib/uap10.0/CrossPlatformLibrary.pdb",
+        "lib/uap10.0/CrossPlatformLibrary.xml",
+        "lib/win81/CrossPlatformLibrary.Platform.dll",
+        "lib/win81/CrossPlatformLibrary.Platform.pdb",
+        "lib/win81/CrossPlatformLibrary.Platform.xml",
+        "lib/win81/CrossPlatformLibrary.dll",
+        "lib/win81/CrossPlatformLibrary.pdb",
+        "lib/win81/CrossPlatformLibrary.xml",
+        "lib/wp8/CrossPlatformLibrary.Platform.dll",
+        "lib/wp8/CrossPlatformLibrary.Platform.pdb",
+        "lib/wp8/CrossPlatformLibrary.Platform.xml",
+        "lib/wp8/CrossPlatformLibrary.dll",
+        "lib/wp8/CrossPlatformLibrary.pdb",
+        "lib/wp8/CrossPlatformLibrary.xml",
+        "lib/wpa81/CrossPlatformLibrary.Platform.dll",
+        "lib/wpa81/CrossPlatformLibrary.Platform.pdb",
+        "lib/wpa81/CrossPlatformLibrary.Platform.xml",
+        "lib/wpa81/CrossPlatformLibrary.dll",
+        "lib/wpa81/CrossPlatformLibrary.pdb",
+        "lib/wpa81/CrossPlatformLibrary.xml",
+        "lib/xamarin.ios10/CrossPlatformLibrary.Platform.dll",
+        "lib/xamarin.ios10/CrossPlatformLibrary.Platform.pdb",
+        "lib/xamarin.ios10/CrossPlatformLibrary.Platform.xml",
+        "lib/xamarin.ios10/CrossPlatformLibrary.dll",
+        "lib/xamarin.ios10/CrossPlatformLibrary.pdb",
+        "lib/xamarin.ios10/CrossPlatformLibrary.xml",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "CrossPlatformLibrary.Geolocation/1.0.25": {
+      "sha512": "qY1YyzwBMYr9x4VEEbW0CswPi7epUXXn3F1Jw//9I7Qenu7Olu5yMU6GprChpR8bI4StOwx4z1G0ywAF4w0TuQ==",
+      "type": "package",
+      "path": "crossplatformlibrary.geolocation/1.0.25",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "crossplatformlibrary.geolocation.1.0.25.nupkg.sha512",
+        "crossplatformlibrary.geolocation.nuspec",
+        "lib/monoandroid10/CrossPlatformLibrary.Geolocation.Platform.dll",
+        "lib/monoandroid10/CrossPlatformLibrary.Geolocation.Platform.pdb",
+        "lib/monoandroid10/CrossPlatformLibrary.Geolocation.Platform.xml",
+        "lib/monoandroid10/CrossPlatformLibrary.Geolocation.dll",
+        "lib/monoandroid10/CrossPlatformLibrary.Geolocation.pdb",
+        "lib/monoandroid10/CrossPlatformLibrary.Geolocation.xml",
+        "lib/monotouch10/CrossPlatformLibrary.Geolocation.Platform.dll",
+        "lib/monotouch10/CrossPlatformLibrary.Geolocation.Platform.pdb",
+        "lib/monotouch10/CrossPlatformLibrary.Geolocation.Platform.xml",
+        "lib/monotouch10/CrossPlatformLibrary.Geolocation.dll",
+        "lib/monotouch10/CrossPlatformLibrary.Geolocation.pdb",
+        "lib/monotouch10/CrossPlatformLibrary.Geolocation.xml",
+        "lib/portable-net45+wp8+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/CrossPlatformLibrary.Geolocation.dll",
+        "lib/portable-net45+wp8+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/CrossPlatformLibrary.Geolocation.pdb",
+        "lib/portable-net45+wp8+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/CrossPlatformLibrary.Geolocation.xml",
+        "lib/uap10.0/CrossPlatformLibrary.Geolocation.Platform.dll",
+        "lib/uap10.0/CrossPlatformLibrary.Geolocation.Platform.pdb",
+        "lib/uap10.0/CrossPlatformLibrary.Geolocation.Platform.xml",
+        "lib/uap10.0/CrossPlatformLibrary.Geolocation.dll",
+        "lib/uap10.0/CrossPlatformLibrary.Geolocation.pdb",
+        "lib/uap10.0/CrossPlatformLibrary.Geolocation.xml",
+        "lib/win81/CrossPlatformLibrary.Geolocation.Platform.dll",
+        "lib/win81/CrossPlatformLibrary.Geolocation.Platform.pdb",
+        "lib/win81/CrossPlatformLibrary.Geolocation.Platform.xml",
+        "lib/win81/CrossPlatformLibrary.Geolocation.dll",
+        "lib/win81/CrossPlatformLibrary.Geolocation.pdb",
+        "lib/win81/CrossPlatformLibrary.Geolocation.xml",
+        "lib/wp8/CrossPlatformLibrary.Geolocation.Platform.dll",
+        "lib/wp8/CrossPlatformLibrary.Geolocation.Platform.pdb",
+        "lib/wp8/CrossPlatformLibrary.Geolocation.Platform.xml",
+        "lib/wp8/CrossPlatformLibrary.Geolocation.dll",
+        "lib/wp8/CrossPlatformLibrary.Geolocation.pdb",
+        "lib/wp8/CrossPlatformLibrary.Geolocation.xml",
+        "lib/wpa81/CrossPlatformLibrary.Geolocation.Platform.dll",
+        "lib/wpa81/CrossPlatformLibrary.Geolocation.Platform.pdb",
+        "lib/wpa81/CrossPlatformLibrary.Geolocation.Platform.xml",
+        "lib/wpa81/CrossPlatformLibrary.Geolocation.dll",
+        "lib/wpa81/CrossPlatformLibrary.Geolocation.pdb",
+        "lib/wpa81/CrossPlatformLibrary.Geolocation.xml",
+        "lib/xamarin.ios10/CrossPlatformLibrary.Geolocation.Platform.dll",
+        "lib/xamarin.ios10/CrossPlatformLibrary.Geolocation.Platform.pdb",
+        "lib/xamarin.ios10/CrossPlatformLibrary.Geolocation.Platform.xml",
+        "lib/xamarin.ios10/CrossPlatformLibrary.Geolocation.dll",
+        "lib/xamarin.ios10/CrossPlatformLibrary.Geolocation.pdb",
+        "lib/xamarin.ios10/CrossPlatformLibrary.Geolocation.xml",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
     "CsvHelper/30.0.1": {
       "sha512": "rcZtgbWR+As4G3Vpgx0AMNmShGuQLFjkHAPIIflzrfkJCx8/AOd4m96ZRmiU1Wi39qS5UVjV0P8qdgqOo5Cwyg==",
       "type": "package",
@@ -4043,6 +4340,80 @@
         "lib/netstandard2.0/ExcelDataReader.DataSet.dll",
         "lib/netstandard2.0/ExcelDataReader.DataSet.pdb",
         "lib/netstandard2.0/ExcelDataReader.DataSet.xml"
+      ]
+    },
+    "GeoCoordinate/2.0.1": {
+      "sha512": "Am5GANF7uS3vlYBHExLtouH/Yrsc+6182nTdxXfnYCCVF/mO6TRO5QQhJVWXd5PjVdNnb6rHbkHiDR9verwnig==",
+      "type": "package",
+      "path": "geocoordinate/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "geocoordinate.2.0.1.nupkg.sha512",
+        "geocoordinate.nuspec",
+        "src/GeoCoordinate.cs",
+        "src/GeoPosition.cs"
+      ]
+    },
+    "GeoCoordinate.NetCore/1.0.0.1": {
+      "sha512": "VrR5MLkh0u2qka79JcQ/GUrgHwGidayCA7nKy2430qYX/JHdrHLgwp1MuBTSsygWs0s2V6GQ0Hp8HUMatHiWFw==",
+      "type": "package",
+      "path": "geocoordinate.netcore/1.0.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "geocoordinate.netcore.1.0.0.1.nupkg.sha512",
+        "geocoordinate.netcore.nuspec",
+        "lib/netstandard1.6/GeoCoordinate.NetCore.deps.json",
+        "lib/netstandard1.6/GeoCoordinate.NetCore.dll"
+      ]
+    },
+    "GoogleMaps.LocationServices/1.2.0.5": {
+      "sha512": "0j3RL5+acxYgQNz72JdXJ1nUKxMGaY+6UvrOIOxZfp0qpJOUmo/ivCAm53atbnuy0z3vrZK+j9mZifh35UBqag==",
+      "type": "package",
+      "path": "googlemaps.locationservices/1.2.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "googlemaps.locationservices.1.2.0.5.nupkg.sha512",
+        "googlemaps.locationservices.nuspec",
+        "lib/netstandard2.0/GoogleMaps.LocationServices.dll"
+      ]
+    },
+    "Guards/1.0.10": {
+      "sha512": "G00TtbKAht4K+m2h5UN5FKiHXJSgiS/nEFho+Fx/RrGbYJ/OFLMkGinew38AOj2g9TeR56IIQU35atRvkmZpxw==",
+      "type": "package",
+      "path": "guards/1.0.10",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "guards.1.0.10.nupkg.sha512",
+        "guards.nuspec",
+        "lib/MonoAndroid10/Guards.dll",
+        "lib/MonoAndroid10/Guards.pdb",
+        "lib/MonoAndroid10/Guards.xml",
+        "lib/MonoTouch10/Guards.dll",
+        "lib/MonoTouch10/Guards.pdb",
+        "lib/MonoTouch10/Guards.xml",
+        "lib/portable-net45+dnxcore50+wp80+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/Guards.dll",
+        "lib/portable-net45+dnxcore50+wp80+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/Guards.pdb",
+        "lib/portable-net45+dnxcore50+wp80+wpa81+win81+netcore45+monoandroid10+monotouch10+xamarin.ios10/Guards.xml",
+        "lib/win81/Guards.dll",
+        "lib/win81/Guards.pdb",
+        "lib/win81/Guards.xml",
+        "lib/wp8/Guards.dll",
+        "lib/wp8/Guards.pdb",
+        "lib/wp8/Guards.xml",
+        "lib/wpa81/Guards.dll",
+        "lib/wpa81/Guards.pdb",
+        "lib/wpa81/Guards.xml",
+        "lib/xamarin.ios10/Guards.dll",
+        "lib/xamarin.ios10/Guards.pdb",
+        "lib/xamarin.ios10/Guards.xml",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
       ]
     },
     "iTextSharp/5.5.13.2": {
@@ -7104,6 +7475,18 @@
         "system.data.sqlclient.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "System.Device.Location.Portable/1.0.0": {
+      "sha512": "VttxozXEleYcK2NiMo7xKMhDCCJbKtjnxcWDmqu703DeceLTI/9jopfEblyZKL0DWHGyOYLEan06yk6Hcv2cXw==",
+      "type": "package",
+      "path": "system.device.location.portable/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/System.Device.Portable.dll",
+        "system.device.location.portable.1.0.0.nupkg.sha512",
+        "system.device.location.portable.nuspec"
       ]
     },
     "System.Diagnostics.Debug/4.3.0": {
@@ -11215,7 +11598,11 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "COMMON >= 1.0.0",
+      "CrossPlatformLibrary.Geolocation >= 1.0.25",
       "ExcelDataReader.DataSet >= 3.6.0",
+      "GeoCoordinate >= 2.0.1",
+      "GeoCoordinate.NetCore >= 1.0.0.1",
+      "GoogleMaps.LocationServices >= 1.2.0.5",
       "Microsoft.AspNet.WebApi.Core >= 5.2.7",
       "Microsoft.AspNetCore.Mvc.Formatters.Json >= 2.2.0",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 3.1.9",
@@ -11229,6 +11616,7 @@
       "QRCoder-ImageSharp >= 0.9.0",
       "System.Configuration.ConfigurationManager >= 4.7.0",
       "System.Data.SqlClient >= 4.8.2",
+      "System.Device.Location.Portable >= 1.0.0",
       "TaskScheduler >= 2.8.21"
     ]
   },
@@ -11280,9 +11668,25 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
+          "CrossPlatformLibrary.Geolocation": {
+            "target": "Package",
+            "version": "[1.0.25, )"
+          },
           "ExcelDataReader.DataSet": {
             "target": "Package",
             "version": "[3.6.0, )"
+          },
+          "GeoCoordinate": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          },
+          "GeoCoordinate.NetCore": {
+            "target": "Package",
+            "version": "[1.0.0.1, )"
+          },
+          "GoogleMaps.LocationServices": {
+            "target": "Package",
+            "version": "[1.2.0.5, )"
           },
           "Microsoft.AspNet.WebApi.Core": {
             "target": "Package",
@@ -11335,6 +11739,10 @@
           "System.Data.SqlClient": {
             "target": "Package",
             "version": "[4.8.2, )"
+          },
+          "System.Device.Location.Portable": {
+            "target": "Package",
+            "version": "[1.0.0, )"
           },
           "TaskScheduler": {
             "target": "Package",
@@ -11409,6 +11817,56 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
+      "message": "Package 'CommonServiceLocator 1.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "CommonServiceLocator",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CrossPlatformAdapter 1.0.12' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "CrossPlatformAdapter",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CrossPlatformLibrary 1.0.73' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "CrossPlatformLibrary",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CrossPlatformLibrary.Geolocation 1.0.25' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "CrossPlatformLibrary.Geolocation",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Guards 1.0.10' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Guards",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
       "message": "Package 'iTextSharp 5.5.13.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
       "libraryId": "iTextSharp",
       "targetGraphs": [
@@ -11431,6 +11889,16 @@
       "warningLevel": 1,
       "message": "Package 'Microsoft.AspNet.WebApi.Core 5.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.AspNet.WebApi.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Device.Location.Portable 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Device.Location.Portable",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
       ]

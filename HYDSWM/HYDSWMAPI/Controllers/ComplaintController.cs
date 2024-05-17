@@ -2,6 +2,8 @@
 using COMMON.CITIZEN;
 using COMMON.OPERATION;
 using COMMON.STAFFCOMPLAINT;
+using GeoCoordinatePortable;
+using GoogleMaps.LocationServices;
 using HYDSWMAPI.INTERFACE;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
@@ -10,12 +12,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using OfficeOpenXml.FormulaParsing.Excel.Functions.Logical;
+using OfficeOpenXml.FormulaParsing.Excel.Functions.RefAndLookup;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+
 
 namespace HYDSWMAPI.Controllers
 {
@@ -60,6 +65,16 @@ namespace HYDSWMAPI.Controllers
             if (value.Files.Count > 0)
                 if (value.Files[0].Length > 0)
                     FName = CommonHelper.generateID() + Path.GetExtension(value.Files[0].FileName);
+            /*
+            GeoCoordinateWatcher watcher = new GeoCoordinateWatcher(GeoPositionAccuracy.Default);
+            watcher.Start(); //started watcher
+            System.Device.Location.GeoCoordinate coord = watcher.Position.Location;
+            if (!watcher.Position.Location.IsUnknown)
+            {
+                double lat = coord.Latitude; //latitude
+                double long = coord.Longitude;  //logitude
+            }
+            */
 
             string filePath = Path.Combine(HostingEnvironment.WebRootPath + FolderName, FName);
             DateTime TDate = CommonHelper.IndianStandard(DateTime.UtcNow);
@@ -128,6 +143,25 @@ namespace HYDSWMAPI.Controllers
 
             return Ok(Result);
         }
+
+
+        [HttpGet]
+        [Route("GetComplaintInfoById")]
+        public IActionResult GetComplaintInfoById()
+        {
+
+            int CId = Convert.ToInt32(Request.Query["CId"]);
+
+
+            SqlParameter[] parameters = new SqlParameter[]
+              {
+                  new SqlParameter("@SComplaintId",CId)
+              };
+
+            string Result = _dataRepository.ExecuteQuerySingleDataTableDynamic(StoredProcedureHelper.spGetComplaintInfoById, parameters);
+            return Ok(Result);
+        }
+
 
         [HttpPost]
         [Route("GetAllStaffComplaint_Paging")]
@@ -343,23 +377,232 @@ namespace HYDSWMAPI.Controllers
 
             return Ok(Result);
         }
+
+
+        [HttpPost]
+        [Route("UpdateCCategory")]
+        public IActionResult UpdateCCategory(JObject obj)
+        {
+
+
+            string revised_ward_num = obj.GetValue("revised_ward_num").Value<string>();
+            string Status = obj.GetValue("Status").Value<string>();
+            string Action_Remark = obj.GetValue("Action_Remark").Value<string>();
+            string address = obj.GetValue("address").Value<string>();
+            string SComplaintId = obj.GetValue("SComplaintId").Value<string>();
+
+            bool IsActive;
+
+
+
+
+            var uploads = "D:\\New folder\\hyd\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Complaint\\uploads";
+
+
+            //Path.GetExtension(value.Files[0].FileName);
+
+            /*
+            SqlParameter[] parameters = new SqlParameter[]
+              {
+                  new SqlParameter("@ComplaintTypeId",Complaint_num),
+                  new SqlParameter("@ComplaintType",Complaint_add),
+                  new SqlParameter("@Complaint_descrip",Complaint_descrip),
+                  new SqlParameter("@Transfer_station",Transfer_station),
+                  new SqlParameter("@IsActive",IsActive)
+              };
+
+            */
+
+
+            int comp_id = 0;
+
+            DateTime TDate = CommonHelper.IndianStandard(DateTime.UtcNow);
+
+            if (SComplaintId != null)
+                comp_id = Int32.Parse(SComplaintId);
+            
+            string Result;
+
+
+
+            
+
+                SqlParameter[] parameters = new SqlParameter[]
+              {
+                  new SqlParameter("@CCId",comp_id),
+                  new SqlParameter("@ComplaintDate",TDate),
+                  new SqlParameter("@Complaintcode","COMP/0000000001"),
+                  new SqlParameter("@TSId",23),
+                  new SqlParameter("@revised_ward_num",revised_ward_num),
+                  new SqlParameter("@Remarks",Status),
+                  new SqlParameter("@FLat",22.7),
+                  new SqlParameter("@FLng",5.7),
+                  new SqlParameter("@FAddress",string.Empty),
+                  new SqlParameter("@FImgUrl",string.Empty),
+                  new SqlParameter("@ModeOfReporting","APP"),
+                  new SqlParameter("@CreatedDate",TDate),
+                  new SqlParameter("@CreatedBy",string.Empty),
+                  new SqlParameter("@FolderName","uploads/"),
+                  new SqlParameter("@Action_Remark",Action_Remark),
+                  new SqlParameter("@address",address)
+                  
+              };
+
+
+
+                Result = _dataRepository.ExecuteQuerySingleDataTableDynamic(StoredProcedureHelper.spUpdateStaffComplaint, parameters);
+            
+            return Ok(Result);
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         [HttpPost]
         [Route("SaveAndUpdateCCategory")]
         public IActionResult SaveAndUpdateCCategory(JObject obj)
         {
-            int ComplaintTypeId = obj.GetValue("ComplaintTypeId").Value<int>();
-            string ComplaintType = obj.GetValue("ComplaintType").Value<string>();
-            bool IsActive = obj.GetValue("IsActive").Value<bool>();
+
+
+            string complaint_name = obj.GetValue("complaint_name").Value<string>();
+            string complaint_num = obj.GetValue("complaint_num").Value<string>();
+            string complaint_add = obj.GetValue("complaint_add").Value<string>();
+            string ddlCategory = obj.GetValue("ddlCategory").Value<string>();
+            string ddlWard = obj.GetValue("ddlWard").Value<string>();
+            string Complaint_descrip = obj.GetValue("Complaint_descrip").Value<string>();
+            string SComplaintId = obj.GetValue("SComplaintId").Value<string>();
+            string add_upd1 = obj.GetValue("add_upd1").Value<string>();
+            bool IsActive;
+
+
+            
+
+            var uploads = "D:\\New folder\\hyd\\HYDSWM\\HYDSWM\\wwwroot\\ViewJs\\Complaint\\uploads";
+
+
+            //Path.GetExtension(value.Files[0].FileName);
+
+            /*
             SqlParameter[] parameters = new SqlParameter[]
               {
-                  new SqlParameter("@ComplaintTypeId",ComplaintTypeId),
-                  new SqlParameter("@ComplaintType",ComplaintType),
+                  new SqlParameter("@ComplaintTypeId",Complaint_num),
+                  new SqlParameter("@ComplaintType",Complaint_add),
+                  new SqlParameter("@Complaint_descrip",Complaint_descrip),
+                  new SqlParameter("@Transfer_station",Transfer_station),
                   new SqlParameter("@IsActive",IsActive)
               };
 
-            string Result = _dataRepository.ExecuteQuerySingleDataTableDynamic(StoredProcedureHelper.SaveAndUpdateCCategory, parameters);
+            */
 
+
+            int comp_id = 0;
+
+            DateTime TDate = CommonHelper.IndianStandard(DateTime.UtcNow);
+
+             if(SComplaintId != null)
+            comp_id = Int32.Parse(SComplaintId);
+            
+            string Result;
+
+
+
+
+
+            SqlParameter[] parameters = new SqlParameter[]
+          {
+
+                  new SqlParameter("@ComplaintTypeId",1),
+                  new SqlParameter("@ComplaintDate",TDate),
+                  new SqlParameter("@Complaintcode","COMP/0000000001"),
+                  new SqlParameter("@TSId",23),
+                  new SqlParameter("@Location",complaint_add),
+                  new SqlParameter("@Remarks",Complaint_descrip),
+                  new SqlParameter("@FLat",22.7),
+                  new SqlParameter("@FLng",5.7),
+                  new SqlParameter("@FAddress",string.Empty),
+                  new SqlParameter("@FImgUrl",string.Empty),
+                  new SqlParameter("@ModeOfReporting","APP"),
+                  new SqlParameter("@CreatedDate",TDate),
+                  new SqlParameter("@CreatedBy",string.Empty),
+                  new SqlParameter("@FolderName","uploads/"),
+                  new SqlParameter("@ComplaintName",complaint_name),
+                  new SqlParameter("@ComplaintContactNumber",complaint_num),
+                  new SqlParameter("@WardNo",ddlWard)
+
+         };
+                Result = _dataRepository.ExecuteQuerySingleDataTableDynamic(StoredProcedureHelper.spAddStaffComplaint, parameters);
+            
+            
             return Ok(Result);
         }
+
+        /*
+        [HttpPost]
+        [Route("AddStaffComplaint")]
+        public async Task<IActionResult> AddStaffComplaint([FromForm] IFormCollection value)
+        {
+
+            string FName = string.Empty;
+            SComplaintInfo obj = JsonConvert.DeserializeObject<SComplaintInfo>(value["Input"]);
+            string FolderName = "/content/SComplaint/";
+            if (value.Files.Count > 0)
+                if (value.Files[0].Length > 0)
+                    FName = CommonHelper.generateID() + Path.GetExtension(value.Files[0].FileName);
+
+            string filePath = Path.Combine(HostingEnvironment.WebRootPath + FolderName, FName);
+            DateTime TDate = CommonHelper.IndianStandard(DateTime.UtcNow);
+            SqlParameter[] parameters = new SqlParameter[]
+              {
+                  new SqlParameter("@ComplaintTypeId",obj.ComplaintTypeId),
+                  new SqlParameter("@ComplaintDate",TDate),
+                  new SqlParameter("@Complaintcode",string.Empty),
+                  new SqlParameter("@TSId",obj.TSId),
+                  new SqlParameter("@Location",obj.Location),
+                  new SqlParameter("@Remarks",obj.Remarks),
+                  new SqlParameter("@FLat",obj.FLat),
+                  new SqlParameter("@FLng",obj.FLng),
+                  new SqlParameter("@FAddress",obj.FAddress),
+                  new SqlParameter("@FImgUrl",FName),
+                  new SqlParameter("@ModeOfReporting","APP"),
+                  new SqlParameter("@CreatedDate",TDate),
+                  new SqlParameter("@CreatedBy",obj.CreatedBy),
+                  new SqlParameter("@FolderName",FolderName),
+              };
+
+            string Result = _dataRepository.ExecuteQuerySingleDataTableDynamic(StoredProcedureHelper.spAddStaffComplaint, parameters);
+            dynamic dresult = JObject.Parse(Result);
+            if (dresult.Result == "1" || dresult.Result == "2")
+                if (value.Files.Count > 0)
+                {
+                    if (value.Files[0].Length > 0)
+                        using (var fileStream = new FileStream(filePath, FileMode.Create))
+                        {
+                            await value.Files[0].CopyToAsync(fileStream);
+                        }
+                }
+            return Ok(Result);
+        }
+
+        */
+
+
+
     }
 }

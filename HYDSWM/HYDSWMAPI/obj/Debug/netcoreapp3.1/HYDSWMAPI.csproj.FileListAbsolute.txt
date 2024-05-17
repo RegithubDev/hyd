@@ -1050,3 +1050,12 @@ D:\New folder\hyd\HYDSWM\HYDSWMAPI\obj\Debug\netcoreapp3.1\HYDSWMAPI.csproj.Up2D
 D:\New folder\hyd\HYDSWM\HYDSWMAPI\obj\Debug\netcoreapp3.1\HYDSWMAPI.dll
 D:\New folder\hyd\HYDSWM\HYDSWMAPI\obj\Debug\netcoreapp3.1\HYDSWMAPI.pdb
 D:\New folder\hyd\HYDSWM\HYDSWMAPI\obj\Debug\netcoreapp3.1\HYDSWMAPI.genruntimeconfig.cache
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\bin\Debug\netcoreapp3.1\Microsoft.Practices.ServiceLocation.dll
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\bin\Debug\netcoreapp3.1\PlatformAdapter.dll
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\bin\Debug\netcoreapp3.1\CrossPlatformLibrary.Platform.dll
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\bin\Debug\netcoreapp3.1\CrossPlatformLibrary.dll
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\bin\Debug\netcoreapp3.1\CrossPlatformLibrary.Geolocation.dll
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\bin\Debug\netcoreapp3.1\GeoCoordinate.NetCore.dll
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\bin\Debug\netcoreapp3.1\Guards.dll
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\bin\Debug\netcoreapp3.1\System.Device.Portable.dll
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\bin\Debug\netcoreapp3.1\GoogleMaps.LocationServices.dll

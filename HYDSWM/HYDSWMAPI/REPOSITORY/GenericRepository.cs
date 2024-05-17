@@ -246,7 +246,7 @@ namespace HYDSWMAPI.REPOSITORY
                     cmd.CommandTimeout = Int32.MaxValue;
                     cmd.CommandType = CommandType.StoredProcedure;
                     foreach (var item in parameters)
-                    {
+                    { 
                         cmd.Parameters.Add(item);
                     }
                     using (SqlDataAdapter sda = new SqlDataAdapter(cmd))

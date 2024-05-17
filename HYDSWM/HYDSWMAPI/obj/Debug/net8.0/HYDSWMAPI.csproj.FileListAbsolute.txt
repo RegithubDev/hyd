@@ -1,0 +1,7 @@
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\obj\Debug\net8.0\HYDSWMAPI.csproj.AssemblyReference.cache
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\obj\Debug\net8.0\HYDSWMAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\obj\Debug\net8.0\HYDSWMAPI.AssemblyInfoInputs.cache
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\obj\Debug\net8.0\HYDSWMAPI.AssemblyInfo.cs
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\obj\Debug\net8.0\HYDSWMAPI.csproj.CoreCompileInputs.cache
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\obj\Debug\net8.0\HYDSWMAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\hyd\HYDSWM\HYDSWMAPI\obj\Debug\net8.0\HYDSWMAPI.sourcelink.json

@@ -139,9 +139,25 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "CrossPlatformLibrary.Geolocation": {
+              "target": "Package",
+              "version": "[1.0.25, )"
+            },
             "ExcelDataReader.DataSet": {
               "target": "Package",
               "version": "[3.6.0, )"
+            },
+            "GeoCoordinate": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "GeoCoordinate.NetCore": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            },
+            "GoogleMaps.LocationServices": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
             },
             "Microsoft.AspNet.WebApi.Core": {
               "target": "Package",
@@ -194,6 +210,10 @@
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.2, )"
+            },
+            "System.Device.Location.Portable": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             },
             "TaskScheduler": {
               "target": "Package",
